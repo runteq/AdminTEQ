@@ -1,3 +1,3 @@
 `yarn add "admin_teq@git+https://github.com/runteq/AdminTEQ.git#main"`
 
-please see `node_modules/@runteq/admin_teq/`
+after yarn install please see `node_modules/@runteq/admin_teq/`
